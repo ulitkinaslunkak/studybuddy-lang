@@ -1,0 +1,51 @@
+.lesson-details {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.lesson-details .lesson-form {
+  width: 65%;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.lesson-details h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #333 !important;
+}
+
+.lesson-details p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #333 !important;
+}
+
+.lesson-details ul {
+  list-style-type: none;
+  padding-left: 0;
+  color: #333 !important;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+}
+/* Стили для выравнивания заголовков по центру */
+.centered-header {
+  text-align: center; /* Выравнивание текста по центру */
+  margin: 20px 0; /* Отступы сверху и снизу */
+  font-weight: bold; /* Сделаем заголовки жирными */
+  font-size: 1.5rem; /* Размер шрифта */
+  color: #333; /* Цвет текста */
+}
+
+.likes-text {
+    font-size: 18px;
+    color: #333 !important;
+    margin-left: 10px;
+}
+

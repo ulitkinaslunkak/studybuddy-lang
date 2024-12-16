@@ -1,0 +1,13 @@
+.profile {
+  padding: 20px;
+}
+
+.profile h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.profile p {
+  font-size: 18px;
+  color: #555;
+}
